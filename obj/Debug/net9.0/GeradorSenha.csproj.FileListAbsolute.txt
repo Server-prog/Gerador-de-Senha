@@ -1,0 +1,14 @@
+C:\Users\bened\GeradorSenha\bin\Debug\net9.0\GeradorSenha.exe
+C:\Users\bened\GeradorSenha\bin\Debug\net9.0\GeradorSenha.deps.json
+C:\Users\bened\GeradorSenha\bin\Debug\net9.0\GeradorSenha.runtimeconfig.json
+C:\Users\bened\GeradorSenha\bin\Debug\net9.0\GeradorSenha.dll
+C:\Users\bened\GeradorSenha\bin\Debug\net9.0\GeradorSenha.pdb
+C:\Users\bened\GeradorSenha\obj\Debug\net9.0\GeradorSenha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bened\GeradorSenha\obj\Debug\net9.0\GeradorSenha.AssemblyInfoInputs.cache
+C:\Users\bened\GeradorSenha\obj\Debug\net9.0\GeradorSenha.AssemblyInfo.cs
+C:\Users\bened\GeradorSenha\obj\Debug\net9.0\GeradorSenha.csproj.CoreCompileInputs.cache
+C:\Users\bened\GeradorSenha\obj\Debug\net9.0\GeradorSenha.dll
+C:\Users\bened\GeradorSenha\obj\Debug\net9.0\refint\GeradorSenha.dll
+C:\Users\bened\GeradorSenha\obj\Debug\net9.0\GeradorSenha.pdb
+C:\Users\bened\GeradorSenha\obj\Debug\net9.0\GeradorSenha.genruntimeconfig.cache
+C:\Users\bened\GeradorSenha\obj\Debug\net9.0\ref\GeradorSenha.dll
